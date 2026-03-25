@@ -11,8 +11,8 @@
 .      { return yytext[0]; }
 %%
 
-// File: calc.y (Parser)
 
+// File: calc.y (Parser)
 %{
 #include<stdio.h>
 void yyerror(char *s);
