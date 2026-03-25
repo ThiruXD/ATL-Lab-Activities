@@ -70,7 +70,7 @@ To run these programs without local setup:
 
 ```text
 ├── C-Programs/         # Tasks 1-10 (C-Programs)
-├── Lex-Programs/        # Tasks 1-10 (Lexical Analysis & Syntax Analysis)
+├── Lex-Yacc-Programs/        # Tasks 1-10 (Lexical Analysis & Syntax Analysis)
 └── README.md             # Project Documentation
 ```
 
